@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1C24288F-81A0-4EDE-BC47-B92774DA6111}</ProjectGuid>
+    <ProjectGuid>{66BC6D8F-4639-47BF-B1A1-569050261857}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>laba5</RootNamespace>
-    <AssemblyName>laba5</AssemblyName>
+    <RootNamespace>lappb5</RootNamespace>
+    <AssemblyName>lappb5</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

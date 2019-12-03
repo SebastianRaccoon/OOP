@@ -1,0 +1,7 @@
+E:\labs\ооп\lappb5\lappb5\bin\Debug\lappb5.exe.config
+E:\labs\ооп\lappb5\lappb5\bin\Debug\lappb5.exe
+E:\labs\ооп\lappb5\lappb5\bin\Debug\lappb5.pdb
+E:\labs\ооп\lappb5\lappb5\obj\Debug\lappb5.csprojAssemblyReference.cache
+E:\labs\ооп\lappb5\lappb5\obj\Debug\lappb5.csproj.CoreCompileInputs.cache
+E:\labs\ооп\lappb5\lappb5\obj\Debug\lappb5.exe
+E:\labs\ооп\lappb5\lappb5\obj\Debug\lappb5.pdb
