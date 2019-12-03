@@ -1,0 +1,6 @@
+F:\labs\ооп\LAba7\LAba7\bin\Debug\LAba7.exe.config
+F:\labs\ооп\LAba7\LAba7\bin\Debug\LAba7.exe
+F:\labs\ооп\LAba7\LAba7\bin\Debug\LAba7.pdb
+F:\labs\ооп\LAba7\LAba7\obj\Debug\LAba7.csprojAssemblyReference.cache
+F:\labs\ооп\LAba7\LAba7\obj\Debug\LAba7.exe
+F:\labs\ооп\LAba7\LAba7\obj\Debug\LAba7.pdb

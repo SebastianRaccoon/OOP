@@ -1,0 +1,13 @@
+D:\универ\3 сем\ООп\Лабы\№6\Laba6\Laba6\obj\Debug\Laba6.csprojAssemblyReference.cache
+D:\универ\3 сем\ООп\Лабы\№6\Laba6\Laba6\obj\Debug\Laba6.csproj.CoreCompileInputs.cache
+D:\универ\3 сем\ООп\Лабы\№6\Laba6\Laba6\bin\Debug\Laba6.exe.config
+D:\универ\3 сем\ООп\Лабы\№6\Laba6\Laba6\bin\Debug\Laba6.exe
+D:\универ\3 сем\ООп\Лабы\№6\Laba6\Laba6\bin\Debug\Laba6.pdb
+D:\универ\3 сем\ООп\Лабы\№6\Laba6\Laba6\obj\Debug\Laba6.exe
+D:\универ\3 сем\ООп\Лабы\№6\Laba6\Laba6\obj\Debug\Laba6.pdb
+F:\labs\ооп\Laba6\Laba6\bin\Debug\Laba6.exe.config
+F:\labs\ооп\Laba6\Laba6\bin\Debug\Laba6.exe
+F:\labs\ооп\Laba6\Laba6\bin\Debug\Laba6.pdb
+F:\labs\ооп\Laba6\Laba6\obj\Debug\Laba6.csprojAssemblyReference.cache
+F:\labs\ооп\Laba6\Laba6\obj\Debug\Laba6.exe
+F:\labs\ооп\Laba6\Laba6\obj\Debug\Laba6.pdb
